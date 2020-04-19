@@ -59,6 +59,7 @@ python2 webbot.py
 
 To use the scanner type the following commands in Linux terminal:
 ```
+apt-get install tor
 git clone https://github.com/tuhin1729/WebBot.git
 cd WebBot
 pip install -r requirements.txt
