@@ -18,7 +18,7 @@
 
 - The script requires working network connection to work.
 - This script is only for educational purposes.
-- **Developer is not responsible for the misuse of MailDiya.**
+- **Developer is not responsible for the misuse of WebBot.**
 <br>
 
 ## Features:
