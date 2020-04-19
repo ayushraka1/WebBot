@@ -13,6 +13,7 @@ def banner():
  print("    \033[1;36;40m Github      : \033[1;32;40m www.github.com/tuhin1729")
  print("    \033[1;36;40m YouTube     : \033[1;32;40m https://bit.ly/TuhinTheHacker")
  print("    \033[1;36;40m Dedicated to: \033[1;34;40m Diya Saha")
+ print("         \033[1;31;40mIf the website is protected by Cloudfare then It won't work!!!")
  print("\n\n")
 banner()
 url = raw_input("\033[1;33;40mEnter the URL(Ex: https://www.google.com) :")
